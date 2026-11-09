@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0.5em;
+	font-family: "PT Serif", serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td {
+	border: thin black solid;
+}
+
+.totalcell {
+    background: #bbb;
+    color: #300;
+}
+
+.disabled td {
+    background: #fee;
+    color: #333;
+}
